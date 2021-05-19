@@ -9,6 +9,7 @@ int main(){
 
     int a,b;
 
+    cout<<"Enter 2 no.s";
     cin>>a>>b;
     cout<<"Sum = "<<a+b<<endl;
 
